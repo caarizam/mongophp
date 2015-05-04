@@ -1,0 +1,4 @@
+Aplicación simple que utiliza PHP 5, MongoDb 3.0.2 y Bootstrap 3.3.4.
+
+En esta aplicacion se creo una bd llamada testing y una colección llamada usuarios,
+esta aplicación permite listar, editar, eliminar, agregar y buscar usuarios.
